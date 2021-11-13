@@ -1,0 +1,25 @@
+Script started on Sat Nov 13 20:00:16 2021
+%                                                                               ]7;file://Lemuelas-Air.home/Users/lemuelaf/Command-Line-and-Git-Assessmentlemuelaf@Lemuelas-Air Command-Line-and-Git-Assessment % [?2004hmkdir folder-1[?2004l
+%                                                                               ]7;file://Lemuelas-Air.home/Users/lemuelaf/Command-Line-and-Git-Assessmentlemuelaf@Lemuelas-Air Command-Line-and-Git-Assessment % [?2004hmkdir folder-1mkdir folder- 2[?2004l
+%                                                                               ]7;file://Lemuelas-Air.home/Users/lemuelaf/Command-Line-and-Git-Assessmentlemuelaf@Lemuelas-Air Command-Line-and-Git-Assessment % [?2004htouch file1.txt[?2004l
+%                                                                               ]7;file://Lemuelas-Air.home/Users/lemuelaf/Command-Line-and-Git-Assessmentlemuelaf@Lemuelas-Air Command-Line-and-Git-Assessment % [?2004htouch       touch file1.txttouch file1.txt.txt 2.txt.txt[?2004l
+%                                                                               ]7;file://Lemuelas-Air.home/Users/lemuelaf/Command-Line-and-Git-Assessmentlemuelaf@Lemuelas-Air Command-Line-and-Git-Assessment % [?2004htouch file1.txttouch file1.txt.txt 3.txt.txt[?2004l
+%                                                                               ]7;file://Lemuelas-Air.home/Users/lemuelaf/Command-Line-and-Git-Assessmentlemuelaf@Lemuelas-Air Command-Line-and-Git-Assessment % [?2004hmv file1.txt folder-1[?2004l
+%                                                                               ]7;file://Lemuelas-Air.home/Users/lemuelaf/Command-Line-and-Git-Assessmentlemuelaf@Lemuelas-Air Command-Line-and-Git-Assessment % [?2004hmv file2.txt folder-2[?2004l
+%                                                                               ]7;file://Lemuelas-Air.home/Users/lemuelaf/Command-Line-and-Git-Assessmentlemuelaf@Lemuelas-Air Command-Line-and-Git-Assessment % [?2004hls[?2004l
+README.md	file3.txt	folder-1	folder-2	output.txt
+%                                                                               ]7;file://Lemuelas-Air.home/Users/lemuelaf/Command-Line-and-Git-Assessmentlemuelaf@Lemuelas-Air Command-Line-and-Git-Assessment % [?2004hcd folder-1[?2004l
+%                                                                               ]7;file://Lemuelas-Air.home/Users/lemuelaf/Command-Line-and-Git-Assessment/folder-1lemuelaf@Lemuelas-Air folder-1 % [?2004hpwd[?2004l
+/Users/lemuelaf/Command-Line-and-Git-Assessment/folder-1
+%                                                                               ]7;file://Lemuelas-Air.home/Users/lemuelaf/Command-Line-and-Git-Assessment/folder-1lemuelaf@Lemuelas-Air folder-1 % [?2004hcd -[?2004l
+~/Command-Line-and-Git-Assessment
+%                                                                               ]7;file://Lemuelas-Air.home/Users/lemuelaf/Command-Line-and-Git-Assessmentlemuelaf@Lemuelas-Air Command-Line-and-Git-Assessment % [?2004hrm file3.txt[?2004l
+%                                                                               ]7;file://Lemuelas-Air.home/Users/lemuelaf/Command-Line-and-Git-Assessmentlemuelaf@Lemuelas-Air Command-Line-and-Git-Assessment % [?2004hls[?2004l
+README.md	folder-1	folder-2	output.txt
+%                                                                               ]7;file://Lemuelas-Air.home/Users/lemuelaf/Command-Line-and-Git-Assessmentlemuelaf@Lemuelas-Air Command-Line-and-Git-Assessment % [?2004hexit[?2004l
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sat Nov 13 20:02:52 2021
